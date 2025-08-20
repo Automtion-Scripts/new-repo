@@ -1,2 +1,2 @@
-# NIght_watch scripts
+# Nightwatch_scripts
 sign up page repo
